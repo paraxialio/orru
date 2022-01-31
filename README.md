@@ -1,5 +1,11 @@
 # Orru
 
+## Victim Phoenix App for Credential Stuffing
+
+Orru is a basic Phoenix App for a tutorial about how credential stuffing works.
+
+## Start Phoenix Server 
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
